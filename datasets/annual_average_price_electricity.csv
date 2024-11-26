@@ -1,53 +1,63 @@
-State,Average retail price of electricity
-All sectors : New England,
-All sectors : Connecticut,24.24
-All sectors : Maine,20.84
-All sectors : Massachusetts,23.21
-All sectors : New Hampshire,22.96
-All sectors : Rhode Island,21.62
-All sectors : Vermont,17.53
-All sectors : New Jersey,15.27
-All sectors : New York,18.28
-All sectors : Pennsylvania,12.57
-All sectors : Illinois,11.75
-All sectors : Indiana,11.49
-All sectors : Michigan,13.68
-All sectors : Ohio,11.04
-All sectors : Wisconsin,12.72
-All sectors : Iowa,9.42
-All sectors : Kansas,10.8
-All sectors : Minnesota,12.21
-All sectors : Missouri,10.87
-All sectors : Nebraska,9.14
-All sectors : North Dakota,8.03
-All sectors : South Dakota,10.49
-All sectors : Delaware,12.85
-All sectors : District Of Columbia,16.5
-All sectors : Florida,13.53
-All sectors : Georgia,11.06
-All sectors : Maryland,14.34
-All sectors : North Carolina,10.61
-All sectors : South Carolina,10.5
-All sectors : Virginia,10.68
-All sectors : West Virginia,10.26
-All sectors : Alabama,11.47
-All sectors : Kentucky,9.96
-All sectors : Mississippi,10.95
-All sectors : Tennessee,10.69
-All sectors : Arkansas,9.73
-All sectors : Louisiana,8.91
-All sectors : Oklahoma,9.3
-All sectors : Texas,10.04
-All sectors : Arizona,12.19
-All sectors : Colorado,11.76
-All sectors : Idaho,9.08
-All sectors : Montana,10.97
-All sectors : Nevada,13.09
-All sectors : New Mexico,9.47
-All sectors : Utah,9.03
-All sectors : Wyoming,8.39
-All sectors : California,24.87
-All sectors : Oregon,10.32
-All sectors : Washington,9.58
-All sectors : Alaska,21.41
-All sectors : Hawaii,38.6
+description,2022,2023
+All sectors : United States,,
+All sectors : New England,,
+All sectors : Connecticut,21.08,24.24
+All sectors : Maine,17.44,20.84
+All sectors : Massachusetts,21.27,23.21
+All sectors : New Hampshire,21.07,22.96
+All sectors : Rhode Island,19.3,21.62
+All sectors : Vermont,16.99,17.53
+All sectors : Middle Atlantic,,
+All sectors : New Jersey,14.8,15.27
+All sectors : New York,18.33,18.28
+All sectors : Pennsylvania,11.86,12.57
+All sectors : East North Central,,
+All sectors : Illinois,11.94,11.75
+All sectors : Indiana,11.66,11.49
+All sectors : Michigan,13.2,13.68
+All sectors : Ohio,10.64,11.04
+All sectors : Wisconsin,11.95,12.72
+All sectors : West North Central,,
+All sectors : Iowa,9.57,9.42
+All sectors : Kansas,11.47,10.8
+All sectors : Minnesota,12.04,12.21
+All sectors : Missouri,10.26,10.87
+All sectors : Nebraska,8.83,9.14
+All sectors : North Dakota,8.42,8.03
+All sectors : South Dakota,10.44,10.49
+All sectors : South Atlantic,,
+All sectors : Delaware,11.83,12.85
+All sectors : District Of Columbia,14.94,16.5
+All sectors : Florida,12.51,13.53
+All sectors : Georgia,12,11.06
+All sectors : Maryland,13.32,14.34
+All sectors : North Carolina,9.6,10.61
+All sectors : South Carolina,10.74,10.5
+All sectors : Virginia,10.75,10.68
+All sectors : West Virginia,9.74,10.26
+All sectors : East South Central,,
+All sectors : Alabama,11.59,11.47
+All sectors : Kentucky,10.51,9.96
+All sectors : Mississippi,10.36,10.95
+All sectors : Tennessee,10.89,10.69
+All sectors : West South Central,,
+All sectors : Arkansas,9.91,9.73
+All sectors : Louisiana,10.41,8.91
+All sectors : Oklahoma,10.05,9.3
+All sectors : Texas,10.16,10.04
+All sectors : Mountain,,
+All sectors : Arizona,11.31,12.19
+All sectors : Colorado,11.75,11.76
+All sectors : Idaho,8.51,9.08
+All sectors : Montana,9.97,10.97
+All sectors : Nevada,10.94,13.09
+All sectors : New Mexico,10.02,9.47
+All sectors : Utah,8.8,9.03
+All sectors : Wyoming,8.24,8.39
+All sectors : Pacific Contiguous,,
+All sectors : California,22.33,24.87
+All sectors : Oregon,9.26,10.32
+All sectors : Washington,9.05,9.58
+All sectors : Pacific Noncontiguous,,
+All sectors : Alaska,20.73,21.41
+All sectors : Hawaii,39.72,38.6
