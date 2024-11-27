@@ -1,0 +1,49 @@
+state,avg annual temp (F),avg annual precip (in),avg annual sunlight (kJ/m^2)
+Alabama,62.8,56.9,4660.0
+Arizona,60.3,11.6,5755.0
+Arkansas,60.4,52.5,4725.0
+California,59.4,22.3,5050.0
+Colorado,45.1,18.0,4960.0
+Connecticut,49.0,48.7,3988.0
+Delaware,55.3,45.9,4232.0
+Florida,70.7,54.4,4859.0
+Georgia,63.5,50.4,4661.0
+Idaho,44.4,23.7,4251.0
+Illinois,51.8,40.7,4380.0
+Indiana,51.7,43.6,4318.0
+Iowa,47.8,35.6,4331.0
+Kansas,54.3,29.0,4890.0
+Kentucky,55.6,50.4,4383.0
+Louisiana,66.4,59.7,4725.0
+Maine,41.0,45.5,3815.0
+Maryland,54.2,45.2,4267.0
+Massachusetts,47.9,48.6,3944.0
+Michigan,44.4,33.9,4018.0
+Minnesota,41.2,28.6,3968.0
+Mississippi,63.4,58.5,4693.0
+Missouri,54.5,43.5,4545.0
+Montana,42.7,18.9,3847.0
+Nebraska,48.8,24.2,4685.0
+Nevada,49.9,10.2,5296.0
+New Hampshire,43.8,47.9,3891.0
+New Jersey,52.7,47.6,4056.0
+New Mexico,53.4,13.8,5642.0
+New York,45.4,43.5,3904.0
+North Carolina,59.0,50.8,4466.0
+North Dakota,40.4,18.8,3925.0
+Ohio,50.7,41.1,4139.0
+Oklahoma,59.6,36.4,4912.0
+Oregon,48.4,32.1,3830.0
+Pennsylvania,48.8,45.0,3939.0
+Rhode Island,50.1,49.1,3989.0
+South Carolina,62.4,48.3,4624.0
+South Dakota,45.2,21.2,4332.0
+Tennessee,57.6,55.1,4486.0
+Texas,64.8,28.6,5137.0
+Utah,48.6,13.5,4887.0
+Vermont,42.9,46.0,3826.0
+Virginia,55.1,45.8,4354.0
+Washington,48.3,43.2,3467.0
+West Virginia,51.8,47.1,4146.0
+Wisconsin,43.1,34.1,4023.0
+Wyoming,42.0,16.0,4471.0

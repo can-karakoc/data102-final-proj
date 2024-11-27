@@ -1,0 +1,53 @@
+State,num_plants,num_renewable,num_nonrenewable
+Alaska,151,41,110
+Alabama,79,34,45
+Arkansas,96,64,33
+Arizona,169,123,46
+California,1757,1185,572
+Colorado,292,232,60
+Connecticut,165,88,77
+DC,17,13,4
+Delaware,33,16,17
+Florida,299,176,123
+Georgia,255,171,86
+Hawaii,72,47,25
+Iowa,296,152,145
+Idaho,143,121,22
+Illinois,361,231,130
+Indiana,205,128,77
+Kansas,168,65,103
+Kentucky,60,24,36
+Louisiana,89,11,78
+Massachusetts,632,555,78
+Maryland,201,163,38
+Maine,196,170,26
+Michigan,273,144,129
+Minnesota,768,655,113
+Missouri,129,48,81
+Mississippi,61,20,41
+Montana,70,53,17
+North Carolina,899,800,99
+North Dakota,59,40,19
+Nebraska,126,58,68
+New Hampshire,60,38,22
+New Jersey,403,332,71
+New Mexico,141,118,23
+Nevada,112,73,39
+New York,943,720,223
+Ohio,196,84,114
+Oklahoma,131,91,41
+Oregon,269,230,39
+Pennsylvania,257,102,156
+PR,62,27,35
+Rhode Island,100,86,14
+South Carolina,205,149,56
+South Dakota,52,31,21
+Tennessee,89,63,26
+Texas,873,414,459
+Utah,123,85,38
+Virginia,232,138,94
+Vermont,118,105,13
+Washington,141,106,35
+Wisconsin,244,161,83
+West Virginia,42,24,18
+Wyoming,71,46,25
