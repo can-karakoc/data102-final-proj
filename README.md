@@ -6,7 +6,7 @@
 The increasing urgency of climate change and the critical role of renewable energy in mitigating its effects make it essential to understand the complex factors driving sustainable power adoption. While many states have made progress in renewable energy implementation, significant variations exist in both adoption rates and electricity prices across the United States. This study examines two crucial aspects of this dynamic, with two research questions: 
 
 1. What is a state’s predicted relative renewable energy production based on state characteristics (average annual temperature, sunlight exposure, political leaning, wind and water characteristics, electricity price, urbanization level, and number of power plants)? 
-2. At the state level, What is the causal relationship between electricity price (cents / kWh) and carbon emissions (lb/mWH)?
+2. At the state level, what is the causal relationship between electricity price (cents / kWh) and carbon emissions (lb/mWH)?
 
 ## Repo Structure
 - `final.ipynb`: contains our models and final analyses
